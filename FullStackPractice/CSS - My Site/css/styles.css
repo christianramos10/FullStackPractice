@@ -19,15 +19,11 @@ h2, h3{
 }
 
 .mid-container{
-  background-color: blue;
-  width:200px;
-  height:200px;
+
 }
 
 .bottom-container{
-  background-color: red;
-  width:200px;
-  height:200px;
+
 
 }
 
@@ -41,4 +37,20 @@ h2, h3{
   position:absolute;
   right: 300px;
   top: 50px;
+}
+
+.profileImage{
+  width: 25%;
+  height: 25%;
+}
+
+.firstSkillImage{
+  width: 20%;
+  height: 20%;
+}
+
+.secondSkillImage{
+  width: 15%;
+  height: 15%;
+
 }
