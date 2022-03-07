@@ -10,6 +10,7 @@ h1{
   font-size: 5.625rem;
   color: #66BFBF;
 }
+
 h2{
   font-family: 'Montserrat', sans-serif;
   font-size: 2.5rem;
@@ -32,6 +33,7 @@ hr{
   width: 4%;
   margin: 100px auto;
 }
+
 a{
   color: #11999E;
   font-family: 'Montserrat', sans-serif;
