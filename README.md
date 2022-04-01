@@ -1,2 +1,2 @@
-# FullStackPractice
-Repository for practicing full stack code like HTML, CSS, Bootstrap, Javascript, Node.JS, Express.JS, SQL, React.JS and SQL. 
+# Html & CSS Practice 
+Repository for practicing front-end web development. 
